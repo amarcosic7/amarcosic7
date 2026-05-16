@@ -6,9 +6,8 @@
 ## 💬 Poučni Citati :
 
 
-![Dijkstra Quote](https://github-readme-quotes.vercel.app/api?theme=tokyonight&quote=Simplicity%20is%20prerequisite%20for%20reliability.&author=Edsger%20W.%20Dijkstra)
+![Quote](https://github-readme-stats.vercel.app/api/pin/?username=andrewthauer&repo=github-readme-stats&theme=tokyonight&show_owner=false&description=Simplicity+is+prerequisite+for+reliability.+%E2%80%94+Edsger+W.+Dijkstra)
 
+![Quote](https://github-readme-stats.vercel.app/api/pin/?username=andrewthauer&repo=github-readme-stats&theme=tokyonight&show_owner=false&description=Any+fool+can+write+code+that+a+computer+can+understand.+Good+programmers+write+code+that+humans+can+understand.+%E2%80%94+Martin+Fowler)
 
-![Martin Fowler Quote](https://github-readme-quotes.vercel.app/api?theme=tokyonight&quote=Any%20fool%20can%20write%20code%20that%20a%20computer%20can%20understand.%20Good%20programmers%20write%20code%20that%20humans%20can%20understand.&author=Martin%20Fowler)
-
-![John Johnson Quote](https://github-readme-quotes.vercel.app/api?theme=tokyonight&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson)
+![Quote](https://github-readme-stats.vercel.app/api/pin/?username=andrewthauer&repo=github-readme-stats&theme=tokyonight&show_owner=false&description=First,+solve+the+problem.+Then,+write+the+code.+%E2%80%94+John+Johnson)
