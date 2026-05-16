@@ -5,8 +5,8 @@
 
 💬 Poučni Citati :
 
-> ### "Simplicity is prerequisite for reliability."
-> — *Edsger W. Dijkstra*
+> ### "One of my most productive days was throwing away 1000 lines of code."
+> — *Ken Thompson*
 
 ***
 
@@ -15,5 +15,5 @@
 
 ***
 
-> ### "First, solve the problem. Then, write the code."
-> — *John Johnson*
+> ### "Less is more."
+> — *Ludwig Mies van der Rohe*
